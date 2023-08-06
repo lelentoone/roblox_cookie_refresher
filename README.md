@@ -2,4 +2,4 @@
 the best cookie refresher - rbxcold.net/r/cookiemet
 Without dualhooks
 
-[Image alt](https://github.com/lelentoone/roblox_cookie_refresher/blob/main/rbxcold.png)
+[Screenshot](https://github.com/lelentoone/roblox_cookie_refresher/blob/main/rbxcold.png)
