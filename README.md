@@ -1,2 +1,3 @@
 # roblox_cookie_refresher
-rbxcold.net/r/cookiemet
+the best cookie refresher - rbxcold.net/r/cookiemet
+Without dualhooks
